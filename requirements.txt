@@ -1,0 +1,12 @@
+ftfy
+regex
+tqdm
+torch
+torchvision
+tiktoken
+transformers_stream_generator
+einops
+accelerate
+optimum
+auto-gptq
+fastapi[all]
